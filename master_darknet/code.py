@@ -1,5 +1,5 @@
-session = input("session")
-useri = "darknet_7719"
+session = input("session: ")
+useri = "janob_darknet"
 
 first_name = "Telegram"
 
@@ -11,7 +11,7 @@ username = "TeLegram"
 
 you_phone = "number"
 
-chat = "uz_telethon"
+chat = "janob_darkner"
 #leavechannel, 
 
 msg_id = 33969
