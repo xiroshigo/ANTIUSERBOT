@@ -69,6 +69,7 @@ for char in words:
     sys.stdout.write(char)
     sys.stdout.flush()
 os.system("clear")
+os.system("termux-open-url https://t.me/janob_darknet")
 print("""\033[33m                  _   _ _    _               _           _    
      /\         | | (_) |  | |             | |         | |   
     /  \   _ __ | |_ _| |  | |___  ___ _ __| |__   ___ | |_  
