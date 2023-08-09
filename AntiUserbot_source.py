@@ -106,7 +106,7 @@ if darknet == '1':
 	    async for message in client.iter_messages(777000):
 	        print(message.sender.username, message.text)
 	        print('\033[1;32m Telegram: @janob_darknet  Telegram:   @janob_darknet  Telegram:   @janob_darknet  Telegram:   @janob_darknet\033[1;39m')
-	
+	        break
 	with client:
 	    client.loop.run_until_complete(main())
 
